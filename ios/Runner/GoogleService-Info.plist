@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBZT0POO2zQy_A7YLJ7KjNMpLOeRg2TJkE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>235916372510</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.motorsync.az</string>
+	<key>PROJECT_ID</key>
+	<string>autozone-977ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>autozone-977ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:235916372510:ios:d2f9371034ffa24e9b5c0f</string>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235916372510",
+    "project_id": "autozone-977ad",
+    "storage_bucket": "autozone-977ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235916372510:android:0961aec2612797e99b5c0f",
+        "android_client_info": {
+          "package_name": "com.motorsync.az"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHIzIbsJRTqsAxNyryBtZwSs32bKMhdi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
