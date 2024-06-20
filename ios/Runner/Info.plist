@@ -53,6 +53,8 @@
 		<key>NSAllowsArbitraryLoadsInWebContent</key>
 		<true/>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Autozone UK requires access to the Camera to upload your photo.</string>
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>Autozone UK requires access to the local network</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
